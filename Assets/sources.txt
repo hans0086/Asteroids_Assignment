@@ -1,0 +1,10 @@
+http://pics-about-space.com/asteroid-icon?p=2
+http://www.dafont.com/theme.php?cat=301&page=2
+https://premiumcoding.com/beautiful-free-space-backgrounds/
+http://wallpapercave.com/space-star-background
+http://ideatube.science/space-stars-background
+apple.stackexchange.com/questions/170810/is-using-the-sprite-kit-default-spaceship-image-in-my-app-a-copyright-infringeme
+http://discuss.cocos2d-x.org/t/cocos3-0-tutorial-dragging-a-sprite-around-the-screen/14400
+http://answers.unity3d.com/questions/773097/keep-track-on-score-when-objects-are-destroyed.html(Used to help set score by creating empty game object)
+http://www.metroid-database.com/sm/music.php ( for background music)
+http://lookingforlyrics.com/catalog/Ennio%20Morricone-The%20Thing%20Theme%2FHumanity%202%20(Ma)/(for title screen music)
